@@ -12,7 +12,7 @@ const articles = [
   {
     slug: "best-market-intelligence-tools-2026",
     title: "Best Market Intelligence Tools 2026 (That Don't Cost $50K)",
-    excerpt: "A honest comparison of market intelligence tools. From enterprise giants to affordable alternatives for startups.",
+    excerpt: "An honest comparison of market intelligence tools. From enterprise giants to affordable alternatives for startups.",
     date: "2026-05-26",
     category: "Comparisons",
     readTime: "6 min",
@@ -32,6 +32,30 @@ const articles = [
     date: "2026-05-28",
     category: "Strategy",
     readTime: "5 min",
+  },
+  {
+    slug: "klue-alternatives-startups",
+    title: "Klue Alternatives for Startups and Small Teams",
+    excerpt: "Klue is enterprise-only. Here are alternatives that actually work for startups and small teams.",
+    date: "2026-05-29",
+    category: "Alternatives",
+    readTime: "6 min",
+  },
+  {
+    slug: "track-ai-brand-mentions",
+    title: "How to Track What AI Says About Your Brand",
+    excerpt: "AI tools like ChatGPT and Perplexity are becoming the new search. Here's how to monitor your brand across them.",
+    date: "2026-05-30",
+    category: "AI & SEO",
+    readTime: "5 min",
+  },
+  {
+    slug: "market-intelligence-2026",
+    title: "The State of Market Intelligence in 2026",
+    excerpt: "How AI is transforming competitive intelligence and what it means for your business.",
+    date: "2026-06-01",
+    category: "Industry",
+    readTime: "7 min",
   },
 ];
 
